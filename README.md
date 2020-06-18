@@ -33,11 +33,11 @@
 The app defines following APIs. 
  
 ```   
-    POST /center   
-    GET /center
+    POST /api/center   
+    GET /api/center
 ```
 
-#### POST /center API
+#### POST /api/center API
 * Use following body in signup api
 ```json
     {
@@ -59,12 +59,12 @@ The app defines following APIs.
 * Center name should be less then 40 characters
 * Center code should be of 12 character alphanumeric value
 
-#### GET /center API
+#### GET /api/center API
 * This api is used to get list of added centers
 
 ## Explore Other Repositories 
 
-https://github.com/AbhayKatharotiya/SecurityModule.git
-https://github.com/AbhayKatharotiya/BankingSystem.git
-https://github.com/AbhayKatharotiya/E-commerce-Servlet-.git
+- https://github.com/AbhayKatharotiya/SecurityModule.git
+- https://github.com/AbhayKatharotiya/BankingSystem.git
+- https://github.com/AbhayKatharotiya/E-commerce-Servlet-.git
 
